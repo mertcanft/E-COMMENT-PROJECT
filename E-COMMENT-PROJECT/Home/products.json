@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Pro Cat Plus x ST3250 Li Metal Şanzımanlı Çift Akülü Şarjlı Vidalama Matkap 2 Yıl Garantili",
+        "price": 159.9,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://mcdn01.gittigidiyor.net/64425/tn50/644256605_tn50_0.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Violet 90*150 Rattan Plastik Trend Lüx Camlı Masa Takımı 6 Sandalyeli",
+        "price": 1859.9,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://mcdn01.gittigidiyor.net/63989/tn50/639891206_tn50_0.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Evony Elastik Kulaklı 3 Katlı Cerrahi Maske 250 Adet",
+        "price": 79.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://mcdn01.gittigidiyor.net/65048/tn50/650481341_tn50_0.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Monster Abra A5 V16.6.5 Dizüstü Bilgisayar (Laptop)",
+        "price": 7499.0,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://mcdn01.gittigidiyor.net/63891/tn50/638915004_tn50_0.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Raks Eco Jasper Vantilatör",
+        "price": 229.0,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://mcdn01.gittigidiyor.net/57149/tn50/571494451_tn50_0.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Pro Cat Plus ST3250LI 27 Pcs Setli Metal Şanjumanlı Çift Akülü Darbeli Vidalama Matkap",
+        "price": 194.9,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://mcdn01.gittigidiyor.net/64433/tn50/644338228_tn50_0.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "ABETE-4 KAPILI 2 ÇEKMECELİ CEVİZ-KREM GARDROP",
+        "price": 549.0,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://mcdn01.gittigidiyor.net/69925/tn50/699258444_tn50_0.jpg"
+            }
+          }
+        }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Evony Black Elastik Kulaklı Siyah Maske 250 Adet",
+        "price": 79.99,
+        "image": {
+          "fields": {
+            "file": {
+              "url": "https://mcdn01.gittigidiyor.net/66654/tn50/666546849_tn50_0.jpg"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
